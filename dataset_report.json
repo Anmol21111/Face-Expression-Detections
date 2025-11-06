@@ -1,0 +1,17 @@
+{
+  "generated_date": "2025-10-28T15:23:20.367609",
+  "dataset_location": "large_dataset",
+  "total_images": 0,
+  "expression_stats": {
+    "angry": 0,
+    "disgust": 0,
+    "fear": 0,
+    "happy": 0,
+    "neutral": 0,
+    "sad": 0,
+    "surprise": 0
+  },
+  "recommendations": [
+    "\ud83d\udea8 Dataset is very small. Aim for at least 1000 images per expression."
+  ]
+}
