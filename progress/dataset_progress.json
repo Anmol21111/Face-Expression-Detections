@@ -1,0 +1,12 @@
+{
+  "counters": {
+    "angry": 0,
+    "disgust": 0,
+    "fear": 0,
+    "happy": 0,
+    "neutral": 0,
+    "sad": 0,
+    "surprise": 0
+  },
+  "last_update": "2025-11-04T22:35:48.433407"
+}
